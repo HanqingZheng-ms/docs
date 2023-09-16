@@ -1,8 +1,8 @@
 ---
-description: "Learn more about: .NET API browser"
+description: Discover the .NET API browser, your ultimate resource for all Microsoft .NET-based APIs. Search for managed APIs and provide feedback for improvements.
 layout: ApiBrowserPage
 hide_bc: true
-title: .NET API browser
+title: Explore Microsoft .NET API Browser for Managed APIs
 quickFilterColumn1: net-7.0,netframework-4.8,netstandard-2.1
 quickFilterColumn2: aspnetcore-7.0,efcore-7.0,net-maui-7.0
 quickFilterColumn3: azure-dotnet,ml-dotnet,spark-dotnet
